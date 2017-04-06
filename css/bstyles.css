@@ -1,0 +1,30 @@
+#container{
+    border:solid black;
+    width:1000px;
+    height:1000px;
+    
+}
+#menu{
+    border: solid blue;
+    width: 99.5%;
+    height: 12%;
+    float:left;
+}
+#mleft{
+    border:solid green;
+    width: 68.7%;
+    height:700px;
+    float:left;
+}
+#mcenter{
+    border:solid red;
+    width: 30%;
+    height:700px;
+    float:left;
+}
+#footer{
+    border: solid purple;
+    width: 99.5%;
+    height: 16.5%;
+    float:left;
+}
